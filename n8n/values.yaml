@@ -96,7 +96,7 @@ ingress:
   tls:
     - hosts:
         - n8.1cloud.info
-    #  secretName: n8-1cloud-tls
+      secretName: n8-1cloud-tls
   # tls: []
   #  - secretName: chart-example-tls
   #    hosts:
