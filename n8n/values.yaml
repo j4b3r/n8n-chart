@@ -28,6 +28,7 @@ n8n:
   log_level: "debug"
   timezone: ""
   webhookUrl: "http://localhost"
+  encryptionKey: d9d8f70c3165f6393b7df462609f83e2
   auth:
     enabled: false
     username: "n8n"
